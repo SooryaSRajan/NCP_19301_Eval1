@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recommendations SYSTEM "recommendation.dtd">
+<recommendations>
+    
+    <recommendation prefix="Dr">
+        <firstname>Soorya</firstname>
+        <lastname>S</lastname>
+        <organization>University of Texas at Dallas</organization>
+        <title>Assistant Professor</title>
+        <relation>Assistant Professor</relation>
+        <phone>9842954321</phone>
+        <email>soorya@gmail.com</email>
+        <academic>Upper 25%</academic>
+        <intellectual>Upper 1 to 2%</intellectual>
+        <motivation>No Basis for Judgement</motivation>
+        <express>Lower Half</express>
+        <admit_applicant>Possibly</admit_applicant>
+        <signature>Soorya S</signature>
+    </recommendation>
+
+    <recommendation prefix="Mr">
+        <firstname>Ajay</firstname>
+        <lastname>R</lastname>
+        <organization>Amrita School of Engineering</organization>
+        <title>Associate Professor</title>
+        <relation>Associate Professor</relation>
+        <phone>89786756456</phone>
+        <email>ajay@gmail.com</email>
+        <academic>Upper 10%</academic>
+        <intellectual>Upper 25%</intellectual>
+        <motivation>Upper 50%</motivation>
+        <express>Upper 1 to 2%</express>
+        <admit_applicant>Possibly</admit_applicant>
+        <signature>Soorya S</signature>
+    </recommendation>
+
+</recommendations>
